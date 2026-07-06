@@ -144,23 +144,24 @@ Follow the steps below to create a boiler using a coke can and the hardware list
 Follow the steps below to create a removable fuel holder using the remainder of the coke can and the hardware listed above.
 
 
-   1) Cut the remaning sheet from soda can using the scissors as shown in the image below with the approx dimensions of 35 x 95 mm 
+ 1) Cut the remaning sheet from soda can using the scissors as shown in the image below with the approx dimensions of 35 x 95 mm 
 
-   ![Alt text](https://cdn.hackclub.com/019f3710-ca6c-7121-a953-79fa98574101/image4.jpg)
+    ![Alt text](https://cdn.hackclub.com/019f3710-ca6c-7121-a953-79fa98574101/image4.jpg)
 
-    2) Fold over the top corners, making sure not to cut yourself
+ 2) Fold over the top corners, making sure not to cut yourself
 
     ![Alt text](https://cdn.hackclub.com/019f3716-c0c4-7e1e-be95-c2f96d68cdea/image2.jpg)
 
-    3) Fold in the sides of the sheet, with the bottom corners being closer. refer to the image below.
+ 3) Fold in the sides of the sheet, with the bottom corners being closer. refer to the image below.
 
     ![Alt text](https://cdn.hackclub.com/019f3719-bc19-7571-b28f-534e24b7bac7/image8.jpg)
 
-    4) Fold the handle part in half and angle upwards. refer to the image below.
+ 4) Fold the handle part in half and angle upwards. refer to the image below.
 
     ![Alt text](https://cdn.hackclub.com/019f371d-c76c-7fd4-bce3-e467166afdb6/image7.jpg)
 
-    5) The Aluminum can fuel holder is ready to use!
+ 5) The Aluminum can fuel holder is ready to use!
+
 
 
 #### 4. Fill the boiler with water using either a syringe or a pipette and connect to boat. Ensure there is a large enough gap to insert fuel so it doesn't extinguish
