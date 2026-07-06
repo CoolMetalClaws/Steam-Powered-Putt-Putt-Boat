@@ -163,15 +163,15 @@ Follow the steps below to create a removable fuel holder using the remainder of 
     5) The Aluminum can fuel holder is ready to use!
 
 
-### 4. Fill the boiler with water using either a syringe or a pipette and connect to boat. Ensure there is a large enough gap to insert fuel so it doesn't extinguish
+#### 4. Fill the boiler with water using either a syringe or a pipette and connect to boat. Ensure there is a large enough gap to insert fuel so it doesn't extinguish
 
-### 5. Prepare fuel. fuel can be anything that can sustain a stable flame beneath the boiler. MY METHOD: Melt candle wax into cavity in the fuel holder. While the wax is still wet, press in a singular piece of camphor. 
+#### 5. Prepare fuel. fuel can be anything that can sustain a stable flame beneath the boiler. MY METHOD: Melt candle wax into cavity in the fuel holder. While the wax is still wet, press in a singular piece of camphor. 
 
-### 6. Place boat in water and hold in place. 
+#### 6. Place boat in water and hold in place. 
 
-### 7. Light fuel and place in boat, being careful not to extinguish the flame. 
+#### 7. Light fuel and place in boat, being careful not to extinguish the flame. 
 
-### 8. Your boat is ready! Watch it slowly putt putt away into the distance! (The boiler may take up to 3 minutes to fully heat up)
+#### 8. Your boat is ready! Watch it slowly putt putt away into the distance! (The boiler may take up to 3 minutes to fully heat up)
 
 ## License 
 
